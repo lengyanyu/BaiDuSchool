@@ -14,3 +14,37 @@
 6.链接 
   <a>标签，链接就是从一个网页指向一个目标的连接关系
 7.dd，dl，dt表示列表
+第二天
+
+1.font-family
+2.font-size
+3.font-style（normal/italic/oblique）
+4.font-weight(bold)
+5.text-transform:uppercase,lowercase,capitalize 转换所有单词首字母大写，full-width
+6.text-decoration:none,underline,overline,line-through(穿过文本的线)
+7.text-shadow:水平偏移，垂直偏移，模糊半径，颜色
+8.文本布局：
+  文本对齐：text-align
+  line-height：1.5；行高（字体高度的1.5倍）
+  letter-spacing（字母间距） 和word-spacing（字字间距）
+  段落第一行——p：：first-line
+9.css：用于向用户指定文档如何呈现如何被指定样式或布局
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
